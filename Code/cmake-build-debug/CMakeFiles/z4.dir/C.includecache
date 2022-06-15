@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/data.h
+
+../include/rng.h
+
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/data.c
+data.h
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/data.h
+
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/rng.c
+rng.h
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/rng.h
+
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/z4.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+data.h
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/data.h
+rng.h
+C:/Users/marti/CLionProjects/PROG2Zadanie4/src/rng.h
+
